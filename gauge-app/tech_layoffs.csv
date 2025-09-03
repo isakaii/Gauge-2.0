@@ -1,0 +1,209 @@
+company,location_hq,num_laid_off,layoff_date,percent_laid_off,industry,source,stage,raised_million,country,date_added
+Unity,SF Bay Area,,2/11/25,,Other,https://www.theverge.com/news/610165/unity-layoffs-2025-runtime-fee,Post-IPO,"$1,300 ",United States,2/12/25
+Google,SF Bay Area,,2/27/25,,Consumer,https://www.cnbc.com/2025/02/27/google-makes-cuts-to-hr-and-cloud-units.html,Post-IPO,$26 ,United States,2/27/25
+Autodesk,SF Bay Area,1350,2/27/25,9%,Other,https://www.cnbc.com/2025/02/27/autodesk-says-it-will-cut-1350-employees.html,Post-IPO,,United States,2/27/25
+Ibotta,Denver,70,2/22/25,8%,Retail,https://coloradosun.com/2025/02/22/fired-federal-workers-eligible-colorado-unemployment-benefits/#h-other-working-bits,Post-IPO,$93 ,United States,2/24/25
+Meta,SF Bay Area,3600,2/10/25,5%,Consumer,https://finance.yahoo.com/news/mark-zuckerberg-warned-employees-prepare-174916671.html,Post-IPO,"$26,000 ",United States,1/16/25
+Logically,ManchesterNon-U.S.,40,2/17/25,20%,AI,https://sifted.eu/articles/anti-misinformation-startup-logically-lays-off-dozens-in-global-cost-cutting-drive,Series A,$37 ,United Kingdom,2/17/25
+Electriq Global,Tel AvivNon-U.S.,,2/21/25,100%,Energy,https://www.calcalistech.com/ctechnews/article/syqy71l91e,Unknown,$8 ,Israel,2/25/25
+Vendease,LagosNon-U.S.,120,2/19/25,44%,Food,https://techcabal.com/2025/02/19/vendease-second-layoffs/,Series A,$43 ,Nigeria,2/21/25
+Riskified,New York City,,2/19/25,,Retail,https://www.calcalistech.com/ctechnews/article/h1hkriq91l,Post-IPO,$229 ,United States,2/21/25
+ANS Commerce,GurugramNon-U.S.,,3/2/25,100%,Retail,https://www.etnownews.com/technology/flipkart-shuts-down-ans-commerce-after-3-years-lays-off-employees-amid-e-commerce-restructuring-details-article-118657546,Acquired,$2 ,India,3/2/25
+Skybox Security,SF Bay Area,300,2/24/25,100%,Security,https://www.calcalistech.com/ctechnews/article/s1wi4rc5yl,Private Equity,$335 ,United States,2/25/25
+Redfin,Seattle,450,2/12/25,,Real Estate,https://www.realestatenews.com/2025/02/12/redfin-to-cut-450-roles-following-zillow-rentals-deal,Post-IPO,$320 ,United States,2/17/25
+Grubhub,SF Bay Area,500,2/28/25,23%,Food,https://www.reuters.com/technology/food-delivery-company-grubhub-lay-off-500-positions-2025-02-28/,Acquired,$284 ,United States,2/28/25
+Expedia,Seattle,,2/26/25,,Travel,https://www.geekwire.com/2025/expedia-confirms-layoffs-at-seattle-travel-giant/,Post-IPO,"$3,300 ",United States,2/27/25
+Commercetools,MunichNon-U.S.,,2/26/25,10%,Retail,https://techcrunch.com/2025/02/26/commercetools-a-pioneer-in-headless-commerce-lays-off-dozens-of-staff/,Series C,$119 ,Germany,2/27/25
+HP,SF Bay Area,2000,2/28/25,,Hardware,https://www.sfchronicle.com/tech/article/hp-job-cuts-tariff-concerns-20193141.php,Post-IPO,,United States,2/28/25
+Blue Origin,Seattle,1000,2/13/25,10%,Aerospace,https://www.cnn.com/2025/02/13/science/blue-origin-employee-layoffs/index.html,Unknown,$167 ,United States,2/14/25
+Getaround,SF Bay Area,,2/12/25,,Transportation,https://www.sfchronicle.com/bayarea/article/s-f-based-getaround-lay-nearly-u-s-based-20164114.php,Series D,$403 ,United States,2/13/25
+Zepz,LondonNon-U.S.,200,2/12/25,20%,Finance,https://www.cnbc.com/2025/02/12/fintech-unicorn-zepz-to-lay-off-200-employees-sources-say.html,Series E,$700 ,United Kingdom,2/12/25
+Zendesk,SF Bay Area,51,2/21/25,,Support,https://www.kron4.com/news/bay-area/zendesk-lays-off-dozens-of-employees-at-sf-headquarters/,Acquired,$85 ,United States,2/21/25
+HerMD,Cincinnati,,2/24/25,100%,Healthcare,https://www.bizjournals.com/cincinnati/inno/stories/news/2025/02/24/hermd-womens-health-startup-closing-venture.html,Series A,$28 ,United States,2/25/25
+Wise,Tampa Bay,300,2/10/25,,Finance,https://www.tampabay.com/news/business/2025/02/10/wise-close-tampa-offices-cutting-more-than-300-jobs/,Post-IPO,$300 ,United States,2/25/25
+Justworks,New York City,200,2/10/25,,HR,https://www.justworks.com/press/company-news/a-note-from-justworks-ceo-mike-seckler,Unknown,$160 ,United States,2/10/25
+Flywire,Boston,125,2/26/25,,Finance,https://www.bostonglobe.com/2025/02/26/business/student-visa-cutback-flywire-stock-price/,Series E,$263 ,United States,2/28/25
+NetEase,TokyoNon-U.S.,,2/22/25,,Consumer,https://www.techinasia.com/news/netease-cuts-jobs-projects-as-growth-remains-slow,Post-IPO,,Japan,2/23/25
+Sophos,OxfordNon-U.S.,,2/13/25,6%,Security,https://techcrunch.com/2025/02/13/sophos-lays-off-6-of-workforce-following-secureworks-acquisition/,Acquired,$125 ,United States,2/13/25
+SeatGeek,New York City,150,2/20/25,15%,Consumer,https://www.theticketingbusiness.com/2025/02/20/seatgeek-to-slash-headcount-by-15-outgoing-employees-claim/,Series E,$400 ,United States,2/21/25
+Dayforce,TorontoNon-U.S.,,2/26/25,5%,HR,https://www.marketwatch.com/story/dayforce-to-cut-about-5-of-workforce-in-efficiency-drive-2eabda38?mod=investing,Post-IPO,$40 ,United States,2/27/25
+eBay,Tel AvivNon-U.S.,20,2/26/25,,Retail,https://www.calcalistech.com/ctechnews/article/bjgsl8n9yl,Post-IPO,"$1,200 ",Israel,2/27/25
+Eviation Aircraft,Tel AvivNon-U.S.,,2/14/25,,Aerospace,https://www.aerotime.aero/articles/electric-startup-eviation-lays-off-staff-as-it-seeks-funding-media-reports,Acquired,$140 ,Israel,2/17/25
+NanoLock,Tel AvivNon-U.S.,,2/6/25,100%,Security,https://www.calcalistech.com/ctechnews/article/rjgagxmkyl,Series B,$18 ,Israel,2/25/25
+Hugging Face,New York City,10,2/5/25,4%,AI,https://www.theinformation.com/briefings/hugging-face-lays-off-4-of-staff,Series D,$395 ,United States,2/5/25
+Tabnine,Tel AvivNon-U.S.,15,2/5/25,18%,AI,https://www.calcalistech.com/ctechnews/article/h1jlmiek1l,Series B,$57 ,Israel,2/5/25
+MessageBird,AmsterdamNon-U.S.,120,2/10/25,33%,Other,https://techcrunch.com/2025/02/10/bird-cuts-120-jobs-as-part-of-strategic-realignment/,Series C,"$1,100 ",Netherlands,2/10/25
+Workday,SF Bay Area,1750,2/5/25,8%,HR,https://www.cnbc.com/2025/02/05/workday-to-cut-1750-jobs-in-ai-push.html,Post-IPO,$230 ,United States,2/5/25
+Cruise,SF Bay Area,1000,2/4/25,50%,Transportation,https://techcrunch.com/2025/02/04/cruise-to-slash-workforce-by-50-after-gm-cuts-funding-to-robotaxi-operations/,Acquired,"$15,000 ",United States,2/4/25
+SRTX,MontrealNon-U.S.,140,2/5/25,,Manufacturing,https://substack.com/inbox/post/156526787,Unknown,$151 ,Canada,2/5/25
+Outbrain,New York City,200,2/5/25,,Marketing,https://www.calcalistech.com/ctechnews/article/rkxxve11yyl,Post-IPO,$394 ,United States,2/5/25
+Sonos,Santa Barbara,200,2/5/25,12%,Consumer,https://www.theverge.com/news/607022/sonos-february-layoffs-app-problems,Post-IPO,$455 ,United States,2/5/25
+Sprinklr,New York City,500,2/6/25,15%,Support,https://techcrunch.com/2025/02/06/sprinklr-cuts-500-employees-citing-underwhelming-business-performance/,Post-IPO,$429 ,United States,2/8/25
+Sure,New York City,70,2/3/25,,Finance,https://www.theinsurer.com/ti/news/embedded-insurtech-sure-slashes-headcount-by-around-70-amid-latest-fundraising-2025-02-03/,Series C,$123 ,United States,2/5/25
+AppsFlyer,SF Bay Area,100,2/4/25,7%,Data,https://www.calcalistech.com/ctechnews/article/hjfbxkkt1e,Unknown,$293 ,United States,2/4/25
+Placer.ai,SF Bay Area,150,1/29/25,18%,Data,https://www.calcalistech.com/ctechnews/article/sj6ptuddye,Unknown,$267 ,United States,1/30/25
+Asana,SF Bay Area,100,2/4/25,,Other,Internal memo,Post-IPO,$453 ,United States,2/5/25
+Cushion,SF Bay Area,,1/30/25,100%,Finance,https://techcrunch.com/2025/01/30/fintech-startup-cushion-shuts-down-after-8-years-and-over-20-million-in-funding/,Series A,$20 ,United States,2/2/25
+TripAdvisor,Boston,75,2/4/25,,Travel,https://skift.com/2025/02/04/tripadvisor-fires-more-than-150-employees-and-contractors-scoop/,Post-IPO,$3 ,United States,2/5/25
+Salesforce,SF Bay Area,1000,2/3/25,1%,Sales,https://finance.yahoo.com/news/salesforce-cut-1-000-roles-002028643.html,Post-IPO,$65 ,United States,2/3/25
+Intel,Sacramento,58,2/4/25,,Hardware,https://folsomtimes.com/intel-announces-another-58-layoffs-for-folsom-campus/,Post-IPO,$12 ,United States,2/21/25
+Okta,SF Bay Area,180,2/4/25,3%,Security,https://techcrunch.com/2025/02/04/okta-lays-off-180-employees-nearly-one-year-after-last-workforce-reduction/,Post-IPO,"$1,200 ",United States,2/4/25
+Moon Active,Tel AvivNon-U.S.,,1/27/25,,Consumer,https://www.calcalistech.com/ctechnews/article/bjejkmruyg,Unknown,$425 ,Israel,1/28/25
+Stripe,SF Bay Area,300,1/21/25,3%,Finance,https://www.businessinsider.com/stripe-layoffs-staff-payments-memo-2025-1,Series I,"$8,700 ",United States,1/21/25
+Turso,LondonNon-U.S.,,1/21/25,,Product,https://turso.tech/blog/upcoming-changes-to-the-turso-platform-and-roadmap,Seed,$7 ,Canada,1/28/25
+Pocket FM,BengaluruNon-U.S.,75,1/16/25,,Media,https://yourstory.com/2025/01/pocketfm-75-employees-pushes-toward-profitability,Series D,$212 ,India,1/20/25
+Aurora Solar,SF Bay Area,58,1/16/25,,Energy,https://www.sfexaminer.com/news/technology/sf-green-tech-startup-aurora-solar-laying-off-dozens-again/article_a5fc0dbc-d450-11ef-95d2-03eab04fe214.html,Series D,$523 ,United States,1/17/25
+Amazon,Seattle,,1/29/25,,Retail,https://www.bloomberg.com/news/articles/2025-01-29/amazon-cuts-dozens-of-corporate-jobs-in-latest-round-of-layoffs,Post-IPO,"$8,100 ",United States,2/2/25
+Chrono24,KarlsruheNon-U.S.,110,1/16/25,24%,Retail,https://usa.watchpro.com/chrono24-reboot-begins-with-one-in-four-workers-cut/,Series C,$205 ,Germany,1/17/25
+Digital River,Minneapolis,122,1/28/25,,Retail,https://www.startribune.com/digital-river-ecommerce-close-layoff-shut-down-microsoft-online-shop/601213069,Private Equity,$50 ,United States,2/2/25
+Unbabel,LisbonNon-U.S.,66,1/20/25,25%,Support,https://observador.pt/2025/01/20/unbabel-reduz-equipa-tecnologica-portuguesa-fala-processo-de-reestruturacao-em-curso/,Series C,$91 ,Portugal,1/28/25
+Textio,Seattle,15,1/15/25,,Recruiting,https://www.geekwire.com/2025/augmented-writing-startup-textio-lays-off-more-employees-will-invest-in-different-mix-of-roles/,Unknown,$42 ,United States,1/17/25
+TechCrunch,SF Bay Area,,1/14/25,,Media,https://www.businessinsider.com/techcrunch-cuts-staff-amid-evolving-needs-2025-1,Acquired,,United States,1/17/25
+Boozt,MalmoNon-U.S.,,1/13/25,10%,Retail,https://www.breakit.se/artikel/42184/boozt-sager-upp-var-tionde-pekar-pa-ai,Post-IPO,$56 ,Sweden,2/2/25
+Alza,New York City,,1/13/25,100%,Finance,https://fortune.com/2025/01/13/alza-fintech-latino-thrive-capital-stripe-level-employer-com-shut-down-venture/,Seed,$7 ,United States,1/14/25
+Pandion,Seattle,63,1/10/25,100%,Logistics,https://www.geekwire.com/2025/heavily-funded-pandion-delivery-startup-closes-abruptly-in-latest-logistics-industry-fallout/,Series B,$76 ,United States,1/11/25
+Microsoft,Seattle,,1/14/25,,Other,https://www.businessinsider.com/microsoft-layoffs-hit-security-devices-sales-gaming-2025-1,Post-IPO,$1 ,United States,1/14/25
+ShareChat,BengaluruNon-U.S.,27,1/15/25,5%,Marketing,https://entrackr.com/news/sharechat-cuts-5-jobs-as-part-of-performance-review-cycle-8623795,Series D,$222 ,India,1/16/25
+HeyJobs,BerlinNon-U.S.,90,1/15/25,,Recruiting,https://aimgroup.com/2025/01/15/heyjobs-axes-90-workers-shuts-two-locations-anonymous-sources/,Series B,$62 ,Germany,2/2/25
+Advisor Credit Exchange,Philadelphia,,1/14/25,100%,Finance,https://citywire.com/ria/news/envestnet-backed-advisor-credit-exchange-to-shut-down-sources/a2457772,Unknown,$31 ,United States,1/14/25
+Wayfair,BerlinNon-U.S.,730,1/10/25,3%,Retail,https://www.cnbc.com/2025/01/10/wayfair-to-exit-germany-cut-730-jobs-in-latest-layoffs.html,Post-IPO,"$1,700 ",Germany,1/11/25
+Altruist,SF Bay Area,37,1/7/25,10%,Finance,https://riabiz.com/a/2025/1/7/altruist-lays-off-10-of-its-staff-despite-300-revenue-jump-to-get-best-possible-people-as-aggressive-hiring-continues-says-ceo,Series E,$449 ,United States,1/7/25
+Cloud Software Group,SF Bay Area,,1/7/25,,Other,https://www.crn.com/news/cloud/2025/citrix-parent-cloud-software-group-confirms-layoffs?itc=refresh,Unknown,,United States,1/11/25
+Zillow,Seattle,,1/10/25,,Real Estate,https://www.geekwire.com/2025/zillow-makes-job-cuts-after-reorganizing-agent-software-and-advertising-teams/,Post-IPO,$97 ,United States,1/14/25
+Icon,Austin,114,1/9/25,,Construction,https://www.statesman.com/story/business/2025/01/09/icon-layoffs-austin-texas-3d-printing-company-100-employees/77573345007/,Series B,$451 ,United States,1/11/25
+Redfin,Seattle,46,1/9/25,,Real Estate,https://www.geekwire.com/2025/redfin-lays-off-46-employees-in-latest-cuts-at-seattle-real-estate-company/,Post-IPO,$320 ,United States,1/14/25
+Level,New York City,,1/2/25,100%,Finance,https://www.pymnts.com/acquisitions/2025/report-benefits-startup-level-shuts-down-after-acquisition-falls-through,Series B,$27 ,United States,1/3/25
+Aqua Security,Boston,,1/7/25,,Security,https://www.calcalistech.com/ctechnews/article/rjd6qpclyx,Series E,$325 ,United States,1/7/25
+Microsoft,Seattle,,1/7/25,,Other,https://www.businessinsider.com/microsoft-plans-job-cuts-performance-management-2025-1,Post-IPO,$1 ,United States,1/11/25
+SolarEdge,Tel AvivNon-U.S.,400,1/6/25,,Energy,https://www.reuters.com/business/energy/solaredge-technologies-lay-off-400-employees-globally-2025-01-06/,Post-IPO,$155 ,Israel,1/7/25
+Thrive,MumbaiNon-U.S.,,12/14/24,100%,Food,https://yourstory.com/2024/12/food-delivery-startup-thrive-to-shut-down-operations,Series A,,India,12/18/24
+Lilium,MunichNon-U.S.,1000,12/23/24,100%,Aerospace,https://techcrunch.com/2024/12/23/electric-aircraft-startup-lilium-ceases-operations-1000-workers-laid-off/,Post-IPO,"$1,400 ",Germany,12/27/24
+Bench,VancouverNon-U.S.,450,12/27/24,100%,Finance,https://techcrunch.com/2024/12/27/bench-shuts-down-leaving-thousands-of-businesses-without-access-to-accounting-and-tax-docs/,Series C,$109 ,Canada,12/27/24
+Yahoo,SF Bay Area,,12/12/24,,Consumer,https://techcrunch.com/2024/12/12/yahoo-cybersecurity-team-sees-layoffs-outsourcing-of-red-team-under-new-cto/,Acquired,$6 ,United States,12/13/24
+Brave Care,Portland,,12/31/24,100%,Healthcare,https://www.oregonlive.com/health/2024/12/portland-pediatrics-startup-brave-care-shutters-permanently.html,Series B,$43 ,United States,1/3/25
+Cint,StockholmNon-U.S.,,12/12/24,12%,Data,https://investors.cint.com/en/press/cint-reducing-its-cost-base-increase-efficiency-and-sets-date-strategy-update-2287372,Post-IPO,$17 ,Sweden,2/8/25
+BionicHIVE,SderotNon-U.S.,,12/22/24,100%,Hardware,https://www.calcalistech.com/ctechnews/article/bjejbfsbyx,Unknown,,Israel,12/27/24
+Refinery29,New York City,,12/17/24,,Media,https://www.axios.com/2024/12/17/refinery29-layoffs-ceo-cory-haik,Acquired,$134 ,United States,12/18/24
+Epicery,ParisNon-U.S.,,12/31/24,100%,Food,https://techcrunch.com/2024/12/31/after-ups-and-down-food-delivery-startup-epicery-closes-shop/,Acquired,$7 ,France,1/3/25
+RealSelf,Seattle,,12/19/24,,Healthcare,https://www.geekwire.com/2024/realself-layoffs-cosmetic-procedure-review-company-cuts-staff/,Series B,$42 ,United States,1/14/25
+Spotter,Los Angeles,,12/11/24,,Other,https://www.theinformation.com/articles/spotter-a-startup-that-funds-youtubers-lays-off-staff-following-amazon-deal,Unknown,$238 ,United States,12/12/24
+Carousell,SingaporeNon-U.S.,76,12/6/24,7%,Retail,https://www.channelnewsasia.com/singapore/carousell-layoffs-december-2024-76-roles-strategic-market-resources-4791261,Unknown,$375 ,Singapore,12/7/24
+Spectrm,BerlinNon-U.S.,,12/10/24,,Marketing,https://tech.eu/2024/12/10/when-layoffs-go-wrong/,Series B,$11 ,Germany,12/18/24
+OfferUp,Seattle,,12/11/24,22%,Retail,https://www.geekwire.com/2024/offerup-cuts-22-of-staff-amid-expansion-beyond-used-goods-read-ceos-memo-to-staff/,Unknown,$381 ,United States,12/12/24
+Foundry,Rochester,74,12/11/24,27%,Crypto,https://coingeek.com/foundry-lays-off-staff-as-marathon-hive-expand/,Subsidiary,,United States,12/12/24
+Canoo,Los Angeles,20,12/11/24,,Transportation,https://eletric-vehicles.com/canoo/canoo-initiates-layoffs-as-bankruptcy-looms/,Post-IPO,$300 ,United States,12/12/24
+Calendly,Atlanta,70,12/11/24,13%,Other,https://finance.yahoo.com/news/read-memo-calendlys-ceo-sent-133038639.html,Series B,$351 ,United States,12/12/24
+Bluevine,Tel AvivNon-U.S.,100,12/10/24,18%,Finance,https://www.calcalistech.com/ctechnews/article/bkfccpr4kx,Unknown,$769 ,Israel,12/10/24
+EasyKnock,New York City,,12/9/24,100%,Real Estate,https://www.housingwire.com/articles/easyknock-fintech-abruptly-shuts-down/,Series D,$440 ,United States,12/10/24
+Lightspeed Commerce,MontrealNon-U.S.,200,12/2/24,,Retail,https://www.marketwatch.com/story/lightspeed-commerce-to-cut-200-jobs-17842379,Post-IPO,"$1,200 ",Canada,12/2/24
+Mixtroz,Birmingham,,12/6/24,100%,Other,https://bhamnow.com/2024/12/06/mixtroz-co-founders-announce-shutting-down-operations/,Seed,$2 ,United States,12/10/24
+2U,Washington D.C.,,12/4/24,,Education,https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/,Post-IPO,$426 ,United States,12/7/24
+Vox Media,Washington D.C.,,12/5/24,,Media,https://www.adweek.com/media/vox-media-layoffs-reorganizes-lifestyle-properties/,Series F,$307 ,United States,12/7/24
+Kobo360,LagosNon-U.S.,30,11/30/24,,Logistics,https://techcabal.com/2025/01/20/kobo360-layoff/,Series B,$85 ,Nigeria,1/20/25
+Stash,New York City,88,12/4/24,40%,Finance,https://fortune.com/2024/12/04/stash-fintech-layoffs-ceo-departure-acquisition/,Unknown,$480 ,United States,12/7/24
+Circle,Boston,50,12/5/24,6%,Crypto,https://www.coindesk.com/business/2024/12/05/usdc-issuer-circle-makes-layoffs-as-part-of-operations-review-bloomberg,Private Equity,"$1,100 ",United States,12/7/24
+Skai,Tel AvivNon-U.S.,80,12/3/24,14%,Marketing,https://www.calcalistech.com/ctechnews/article/bjorbhhmyg,Series E,$60 ,Israel,12/10/24
+Booking Holdings,Norwalk,60,12/4/24,,Travel,https://skift.com/2024/12/04/booking-holdings-laid-off-60-employees-at-b2b-arm-as-it-resets-priorities/,Post-IPO,"$2,800 ",United States,12/7/24
+AlphaSense,New York City,150,11/27/24,8%,Other,https://news.bloomberglaw.com/daily-labor-report/market-research-firm-alphasense-cut-150-jobs-in-restructuring,Series F,"$1,400 ",United States,11/28/24
+LinkedIn,SF Bay Area,202,11/21/24,1%,Recruiting,https://www.theinformation.com/briefings/linkedin-lays-off-200-employees,Acquired,$154 ,United States,11/24/24
+Headspace,Los Angeles,,11/20/24,13%,Healthcare,https://bhbusiness.com/2024/11/20/headspace-axes-13-of-workforce-transition-therapist-network-to-part-time-and-contract-roles/,Unknown,$216 ,United States,11/28/24
+Sprout Social,Chicago,,11/25/24,,Marketing,https://docs.google.com/spreadsheets/d/18Grpra9ciB9dWzWJ2W0ao8WjCrm_t5foqFt6Ebb6aUo/edit?gid=1610497511#gid=1610497511,Post-IPO,$111 ,United States,12/13/24
+Adjust,BerlinNon-U.S.,304,11/22/24,,Marketing,https://www.pocketgamer.biz/applovin-owned-adjust-lays-off-staff/,Acquired,$256 ,Germany,11/24/24
+Klub,BengaluruNon-U.S.,60,11/29/24,,Finance,https://www.livemint.com/companies/start-ups/klub-halves-workforce-peak-xv-trifecta-capital-backed-fintech-startup-11732868338440.html,Unknown,$35 ,India,12/1/24
+Ola Electric,BengaluruNon-U.S.,500,11/22/24,,Transportation,https://www.techinasia.com/news/indias-ola-electric-cuts-500-employees-boost-profits,Post-IPO,"$1,700 ",India,11/24/24
+Hopper,MontrealNon-U.S.,,11/22/24,,Travel,https://skift.com/2024/11/22/hopper-restructures-with-job-cuts-for-the-second-time-in-a-year/,Unknown,$730 ,Canada,11/24/24
+Own,New York City,,11/19/24,,Data,https://www.bloomberg.com/news/articles/2024-11-19/salesforce-plans-layoffs-at-acquisition-own-in-strategy-shift,Acquired,$507 ,United States,11/20/24
+SolarEdge,Tel AvivNon-U.S.,500,11/27/24,12%,Energy,https://www.reuters.com/business/energy/inverter-maker-solaredge-reduce-12-its-workforce-2024-11-27/,Post-IPO,$155 ,Israel,1/7/25
+Better Collective,CopenhagenNon-U.S.,300,11/14/24,,Other,https://www.igbaffiliate.com/en/articles/117348/m-a-helps-better-collective-fend-off-trouble-in-q3-as-300-staff-layoffs-revealed/,Unknown,,Denmark,2/17/25
+New Relic,SF Bay Area,,11/12/24,,Infrastructure,https://www.bizjournals.com/portland/news/2024/11/12/more-layoffs-new-relic-francisco-partners-tpg.html,Acquired,$214 ,United States,11/13/24
+Lyra Health,SF Bay Area,77,11/12/24,2%,Healthcare,https://www.fiercehealthcare.com/digital-health/lyra-lays-2-workforce-amid-restructuring-impacting-non-clinicians,Series F,$910 ,United States,11/20/24
+Kuku FM,MumbaiNon-U.S.,80,11/14/24,,Media,https://inc42.com/buzz/kuku-fm-fires-100-employees-to-cut-costs/,Series C,$71 ,India,11/14/24
+AppLovin,SF Bay Area,120,11/13/24,,Marketing,https://www.sfgate.com/tech/article/applovin-layoffs-stock-market-run-19920195.php,Post-IPO,"$1,600 ",United States,11/16/24
+TrueLayer,LondonNon-U.S.,71,11/15/24,25%,Finance,https://www.cityam.com/former-fintech-unicorn-truelayer-laid-off-a-quarter-of-staff-in-one-day/,Series E,$321 ,United Kingdom,11/20/24
+Forward,SF Bay Area,200,11/12/24,100%,Healthcare,https://www.theinformation.com/articles/forward-startup-behind-doctor-in-box-healthcare-modules-to-shut-down,Series E,$325 ,United States,11/13/24
+Chegg,SF Bay Area,319,11/12/24,21%,Education,https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-11-12-2024/card/online-education-company-chegg-to-lay-off-staff-as-ai-tools-weigh-on-revenue-targets-qYYbTOKMAe8OblSEyLUD,Post-IPO,$227 ,United States,11/13/24
+AMD,SF Bay Area,1000,11/13/24,4%,Hardware,https://www.techopedia.com/news/amd-layoffs-amid-mixed-earnings-and-intel-merger-speculation,Post-IPO,,United States,11/13/24
+Freshworks,SF Bay Area,660,11/7/24,13%,Support,https://entrackr.com/news/freshworks-announces-13-layoffs-400-mn-stock-buyback-and-q3-results-7561767,Post-IPO,$484 ,United States,11/7/24
+Exosonic,Los Angeles,,11/8/24,100%,Aerospace,https://techcrunch.com/2024/11/08/supersonic-aircraft-startup-exosonic-is-shutting-down/,Seed,$4 ,United States,11/8/24
+Booking.com,Grand Rapids,,11/8/24,,Travel,https://skift.com/2024/11/08/booking-holdings-to-lay-off-employees-shift-spending-priorities/,Acquired,,United States,11/9/24
+Sword Health,New York City,13,11/11/24,,Healthcare,https://www.businessinsider.com/3-billion-sword-health-cuts-physical-therapists-2024-11,Unknown,$450 ,United States,11/11/24
+Stoa,BengaluruNon-U.S.,,11/12/24,100%,Education,https://inc42.com/buzz/alternative-mba-startup-stoa-shuts-operations/,Seed,,India,11/14/24
+23andMe,SF Bay Area,200,11/11/24,40%,Healthcare,https://www.wsj.com/tech/biotech/23andme-to-cut-workforce-by-40-discontinues-therapeutics-pipeline-8c818729,Post-IPO,"$1,100 ",United States,11/11/24
+Enphase Energy,SF Bay Area,500,11/11/24,17%,Energy,https://www.sfgate.com/tech/article/enphase-energy-layoffs-workers-solar-19907535.php,Post-IPO,$116 ,United States,11/11/24
+Monarch Tractor,SF Bay Area,35,11/8/24,10%,Other,https://techcrunch.com/2024/11/08/monarch-tractor-lays-off-10-in-restructuring-towards-software-and-licensing-av-tech/,Unknown,$214 ,United States,11/8/24
+BigCommerce,Austin,,11/8/24,,Retail,https://www.bizjournals.com/austin/news/2024/11/08/layoffs-bigcommerce-restructure-austin-tech.html,Post-IPO,$224 ,United States,11/8/24
+ShareFile,Raleigh,199,11/7/24,,Other,https://www.newsobserver.com/news/business/article295211124.html,Acquired,,United States,11/7/24
+Outreach,Seattle,67,11/6/24,9%,Sales,https://www.geekwire.com/2024/outreach-cuts-9-of-workforce-in-latest-layoffs-at-seattle-sales-automation-startup/,Series G,$489 ,United States,11/7/24
+Personio,MunichNon-U.S.,115,11/7/24,6%,HR,https://www.businessinsider.de/gruenderszene/business/neue-entlassungswelle-bei-personio-115-leute-muessen-gehen/,Series E,$724 ,Germany,11/7/24
+Opendoor,SF Bay Area,300,11/7/24,17%,Real Estate,https://investor.opendoor.com/static-files/b720864a-b9b8-4286-a2f0-d35abb057f17,Post-IPO,"$1,900 ",United States,11/7/24
+Akamai,Boston,250,11/7/24,2%,Security,https://www.bizjournals.com/boston/news/2024/11/07/akamai-layoffs-2024.html,Post-IPO,$35 ,United States,11/7/24
+Mozilla Foundation,SF Bay Area,,11/5/24,30%,Consumer,https://techcrunch.com/2024/11/05/mozilla-foundation-lays-off-30-staff-drops-advocacy-division/,Subsidiary,$2 ,United States,11/5/24
+Just Eat,AmsterdamNon-U.S.,300,11/7/24,2%,Food,https://www.dailymail.co.uk/news/article-14048375/just-eat-job-cuts-redundancies.html,Acquired,$129 ,Netherlands,11/7/24
+Avaya,Durham,,11/6/24,,Other,https://www.uctoday.com/unified-communications/avaya-undergoes-another-round-of-layoffs/,Post-IPO,$700 ,United States,11/8/24
+Incredibuild,Tel AvivNon-U.S.,18,11/4/24,11%,Product,https://www.calcalistech.com/ctechnews/article/1ifvf95ra,Acquired,$35 ,Israel,11/5/24
+iRobot,Boston,105,11/6/24,16%,Consumer,https://techcrunch.com/2024/11/06/irobot-lays-off-another-105-employees/,Post-IPO,$30 ,United States,11/7/24
+ConsenSys,New York City,163,10/29/24,20%,Crypto,https://decrypt.co/288832/ethereum-giant-consensys-layoffs-eth-slump,Series D,$726 ,United States,10/29/24
+Tidal,New York City,,10/31/24,,Consumer,https://www.engadget.com/entertainment/music/tidal-which-is-in-dire-need-of-some-good-marketing-lays-off-its-entire-product-marketing-team-143045120.html,Acquired,,United States,10/31/24
+Maven Clinic,New York City,60,11/1/24,10%,Healthcare,https://endpts.com/maven-clinic-cuts-10-of-workforce-weeks-after-raising-125m/,Series F,$417 ,United States,11/2/24
+Atera,Tel AvivNon-U.S.,20,11/3/24,6%,Other,https://www.calcalistech.com/ctechnews/article/byvtjavbyg,Series B,$102 ,Israel,11/4/24
+Bowery Farming,New York City,,11/1/24,100%,Food,https://pitchbook.com/news/articles/bowery-indoor-farming-agtech-company-ceases-operations,Unknown,$626 ,United States,11/2/24
+Dropbox,SF Bay Area,527,10/30/24,20%,Other,https://techcrunch.com/2024/10/30/dropbox-is-laying-off-20-of-its-staff/,Post-IPO,"$1,700 ",United States,10/30/24
+Miro,SF Bay Area,275,10/30/24,18%,Other,https://www.theinformation.com/articles/productivity-startup-miro-to-lay-off-roughly-18-of-staff,Series C,$476 ,United States,10/30/24
+F5,Seattle,100,10/29/24,2%,Security,https://www.geekwire.com/2024/f5-confirms-new-round-of-job-cuts-continuing-annual-pattern-of-workforce-reductions/,Post-IPO,,United States,10/29/24
+Kraken,SF Bay Area,400,10/30/24,15%,Crypto,https://www.nytimes.com/2024/10/30/technology/kraken-cryptocurrency-layoff-ceo.html,Unknown,$134 ,United States,10/30/24
+Catena Media,SliemaNon-U.S.,29,10/23/24,,Marketing,https://whoswho.mt/en/catena-media-cuts-29-content-and-marketing-jobs,Unknown,,Malta,11/4/24
+Jellysmack,New York City,22,10/21/24,,Media,https://www.businessinsider.in/tech/news/jellysmack-is-laying-off-staff-as-it-scales-back-its-creator-program/articleshow/114434680.cms,Series C,$22 ,France,10/22/24
+dYdX,SF Bay Area,,10/29/24,35%,Crypto,https://cointelegraph.com/news/dydx-lays-off-thirty-five-percent-workforce-after-consensys-cuts,Series C,$87 ,United States,10/30/24
+Coursera,SF Bay Area,150,10/25/24,10%,Education,https://www.classcentral.com/report/cousera-layoffs-2024/,Post-IPO,$458 ,United States,10/30/24
+Twelve,SF Bay Area,,10/25/24,,Energy,https://www.linkedin.com/feed/update/urn:li:activity:7255308684677795840/,Unknown,$844 ,United States,10/31/24
+Docker,SF Bay Area,,10/29/24,10%,Infrastructure,Internal memo,Series C,$436 ,United States,10/30/24
+Airthings,OsloNon-U.S.,,10/24/24,,Hardware,https://www.airthings.com/hubfs/01_Website/investors/presentations/Airthings_ASA_Q324_Presentation.pdf,Unknown,,Norway,10/26/24
+Kyte,SF Bay Area,,10/25/24,40%,Transportation,https://techcrunch.com/2024/10/25/rental-car-startup-kyte-slashes-staff-and-shrinks-to-two-markets-in-bid-for-survival/,Unknown,$548 ,United States,10/26/24
+Upwork,SF Bay Area,,10/23/24,21%,Other,https://investors.upwork.com/news-releases/news-release-details/upwork-announces-organizational-changes-drive-continued,Post-IPO,$168 ,United States,10/23/24
+Venminder,Louisville,100,10/21/24,,Security,https://www.bizjournals.com/louisville/inno/stories/news/2024/10/21/venminder-mass-layoff-elizabethtown-tech-2024.html,Acquired,$49 ,United States,10/22/24
+Nikola,Phoenix,130,10/11/24,15%,Transportation,https://finance.yahoo.com/news/numbers-nikola-150000920.html,Post-IPO,"$3,300 ",United States,10/16/24
+Fable,New York City,,10/15/24,100%,Product,https://www.fable.app/blog/fable-is-winding-down,Series A,$19 ,United States,10/17/24
+Meta,SF Bay Area,,10/16/24,,Consumer,https://www.theverge.com/2024/10/16/24272195/meta-layoffs-whatsapp-instagram-reality-labs,Post-IPO,"$26,000 ",United States,10/16/24
+Toplyne,BengaluruNon-U.S.,,10/11/24,100%,Sales,https://www.linkedin.com/feed/update/urn:li:activity:7250449812049813504/,Series A,$17 ,India,10/11/24
+Bytedance,JakartaNon-U.S.,500,10/11/24,,Consumer,https://www.reuters.com/technology/bytedance-cuts-over-700-jobs-malaysia-shift-towards-ai-moderation-sources-say-2024-10-11/,Unknown,"$9,400 ",Indonesia,10/11/24
+Gigamon,SF Bay Area,69,10/15/24,,Data,https://www.sfgate.com/tech/article/gigamon-layoffs-elliott-investment-management-19839414.php,Acquired,$23 ,United States,10/15/24
+CapWay,Atlanta,,10/17/24,100%,Finance,https://techcrunch.com/2024/10/16/y-combinator-backed-fintech-capway-has-shut-down/,Unknown,,United States,10/17/24
+Chief,New York City,,10/20/24,,HR,https://africa.businessinsider.com/news/chief-the-networking-group-for-executive-women-has-laid-off-staff/rhnxmel,Series B,$140 ,United States,10/22/24
+CareerBuilder + Monster,Chicago,200,10/10/24,15%,Recruiting,https://aimgroup.com/2024/10/10/200-laid-off-at-new-careerbuilder-monster-staff-cut-of-15-hits-all-departments-levels/,Acquired,,United States,10/11/24
+Zapata Computing,Boston,,10/7/24,100%,Other,https://ir.zapata.ai/node/7701/html,Post-IPO,$82 ,United States,10/14/24
+Grabango,SF Bay Area,,10/9/24,100%,Food,https://www.cnbc.com/2024/10/09/amazon-just-walk-out-rival-shutters-after-failing-to-secure-funding.html,Unknown,$94 ,United States,10/11/24
+Tome,SF Bay Area,12,10/2/24,31%,Sales,https://www.theinformation.com/briefings/early-generative-ai-startup-leader-tome-lays-of-31-of-staff,Series B,$75 ,United States,10/2/24
+PubMatic,SF Bay Area,12,10/7/24,1%,Marketing,https://www.businessinsider.com/adtech-company-pubmatic-layoffs-staff-reductions-2024-10,Post-IPO,$63 ,United States,10/7/24
+Toptal,SF Bay Area,,10/10/24,,Recruiting,https://www.theinformation.com/briefings/toptal-lays-off-workers-as-remote-hiring-demand-ebbs,Unknown,,United States,10/10/24
+Eaze,SF Bay Area,500,10/7/24,100%,Consumer,https://www.sfgate.com/cannabis/article/eaze-california-layoffs-19820734.php,Series D,$202 ,United States,10/7/24
+GoWild,Louisville,,10/10/24,100%,Retail,https://www.bizjournals.com/louisville/inno/stories/news/2024/10/10/gowild-shuts-down-operations-luttrell-2024.html,Seed,$8 ,United States,10/11/24
+BeepKart,BengaluruNon-U.S.,130,10/8/24,40%,Retail,https://inc42.com/buzz/exclusive-beepkart-fires-130-employees-in-5-months-to-cut-costs-halves-store-count/,Series A,$19 ,India,10/8/24
+Zapp,LondonNon-U.S.,,10/8/24,90%,Food,https://www.uktech.news/foodtech/grocery-startup-zapp-losses-with-heavy-cuts-20241008,Series B,$300 ,United Kingdom,10/8/24
+Moov,Cedar Falls,50,9/25/24,,Finance,https://www.linkedin.com/posts/jasonmikula_andreessen-horowitz-backed-payment-infrastructure-activity-7244381710526689280-_P05/,Series B,$77 ,United States,9/26/24
+Flexport,SF Bay Area,,10/2/24,2%,Logistics,https://www.freightwaves.com/news/flexport-to-reduce-workforce-amid-company-reorganization,Series E,"$2,400 ",United States,10/4/24
+Drata,San Diego,40,9/26/24,9%,Security,https://techcrunch.com/2024/09/26/security-compliance-unicorn-drata-lays-off-9-of-its-workforce/,Series C,$328 ,United States,9/26/24
+Alma,New York City,,10/2/24,9%,Healthcare,https://bhbusiness.com/2024/10/02/citing-need-to-re-focus-resources-digital-therapy-platform-alma-lays-off-9-of-staff/,Series D,$220 ,United States,10/3/24
+ABBYY,Nicosia,200,10/1/24,,Data,https://www.bignewsnetwork.com/news/274659725/us-tech-giant-fires-russian-expats,Unknown,$6 ,Cyprus,10/3/24
+FreshBooks,TorontoNon-U.S.,140,10/1/24,,Finance,https://www.freshbooks.com/blog/a-letter-from-mara,Unknown,$331 ,Canada,10/2/24
+DoubleCloud,DubaiNon-U.S.,,9/30/24,100%,Infrastructure,https://double.cloud/blog/posts/2024/10/doublecloud-final-update/,Unknown,,UAE,10/2/24
+Greenikk,TrivandrumNon-U.S.,,9/30/24,100%,Food,https://inc42.com/buzz/100unicorns-backed-agritech-startup-greenikk-shuts-operations/,Seed,$1 ,India,10/1/24
+Vendease,LagosNon-U.S.,68,9/30/24,20%,Food,https://techcabal.com/2025/02/19/vendease-second-layoffs/,Series A,$43 ,Nigeria,2/21/25
+Shein,SingaporeNon-U.S.,17,9/30/24,,Retail,https://marketech-apac.com/shein-lays-off-17-employees-in-sg-despite-local-growth-plans/,Private Equity,"$4,100 ",Singapore,10/1/24
+Notable Labs,SF Bay Area,,9/20/24,65%,Healthcare,https://www.bizjournals.com/sanfrancisco/news/2024/09/20/notable-labs-ntbl-layoffs.html,Series B,,United States,9/20/24
+FreightWaves,Chattanooga,16,9/24/24,,Logistics,https://www.timesfreepress.com/news/2024/sep/24/chattanoogas-freightwaves-eliminates-16-jobs/,Private Equity,$92 ,United States,9/26/24
+CarTrawler,DublinNon-U.S.,40,9/19/24,10%,Transportation,https://www.businesspost.ie/tech-news/cartrawler-to-cut-10-of-workforce-amid-strategic-shift-but-new-roles-will-follow/,Acquired,,Ireland,9/20/24
+Healthy.io,Tel AvivNon-U.S.,40,9/22/24,30%,Healthcare,https://www.calcalistech.com/ctechnews/article/rkbihy060,Series D,$185 ,United States,9/23/24
+Luminar,Orlando,,9/20/24,15%,Transportation,https://www.luminartech.com/updates/a-message-from-founder-ceo-austin-russell,Post-IPO,$780 ,United States,9/23/24
+Olo,New York City,,9/23/24,9%,Food,https://www.fsrmagazine.com/feature/olo-announces-layoffs-for-9-percent-of-staff/,Post-IPO,$184 ,United States,9/23/24
+Reverb,Chicago,40,9/20/24,,Retail,https://www.valueaddedresource.net/etsy-reverb-layoffs-september-2024/,Acquired,$47 ,United States,9/26/24
+Northvolt,StockholmNon-U.S.,1600,9/23/24,20%,Energy,https://www.cnbc.com/2024/09/23/battery-giant-northvolt-to-cut-25percent-of-swedish-workforce-in-cost-cutting-drive.html,Unknown,"$13,800 ",Sweden,9/26/24
+F5,Seattle,,9/24/24,,Security,https://www.geekwire.com/2024/f5-layoffs-impact-in-house-content-creation-employees/,Post-IPO,,United States,9/26/24
+IBM,New York City,,9/18/24,,Hardware,https://www.theregister.com/2024/09/18/ibm_job_cuts/,Post-IPO,,United States,9/20/24
+Spendesk,ParisNon-U.S.,151,9/18/24,,Finance,https://www.lesechos.fr/start-up/ecosysteme/french-tech-la-licorne-spendesk-taille-dans-ses-effectifs-2119722,Series C,,France,10/1/24
+ApplyBoard,WaterlooNon-U.S.,,9/19/24,4%,Education,https://kitchener.citynews.ca/2024/09/19/layoffs-at-applyboard-due-to-restructuring/,Series D,$483 ,Canada,9/20/24
+Udemy,SF Bay Area,280,9/11/24,,Education,https://investors.udemy.com/static-files/98f10e29-29a6-4b13-bfcc-79ee29c14a02,Post-IPO,$311 ,United States,9/17/24
+Microsoft,Seattle,650,9/12/24,,Other,https://www.ign.com/articles/microsoft-lays-off-another-650-staff-from-its-video-game-workforce-xbox-boss-phil-spencer-sends-memo-to-staff,Post-IPO,$1 ,United States,9/12/24
+Runtastic,LinzNon-U.S.,170,9/16/24,,Fitness,https://www.derstandard.at/story/3000000236735/adidas-sperrt-runtastic-in-pasching-und-wien-zu?ref=rss,Acquired,,Austria,9/17/24
+Aakash,New DelhiNon-U.S.,80,9/18/24,,Education,https://entrackr.com/2024/09/exclusive-aakash-lays-off-employees-amid-strategic-shift/,Acquired,,India,9/20/24
+Amperity,Seattle,,9/12/24,13%,Marketing,https://www.geekwire.com/2024/amperity-lays-off-13-of-staff-in-latest-cuts-for-customer-data-startup/,Series D,$187 ,United States,9/13/24
+Mobileye,JerusalemNon-U.S.,100,9/9/24,,Transportation,https://www.calcalistech.com/ctechnews/article/bj11rpdhh0,Post-IPO,"$2,100 ",Israel,9/23/24
